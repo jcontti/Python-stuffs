@@ -1,0 +1,3 @@
+print('My name is')
+for i in range (10, 19, 2): # arranco en 10, voy hasta 18, de 2 en dos...
+    print('Jimmy Five Times ' + str(i))
